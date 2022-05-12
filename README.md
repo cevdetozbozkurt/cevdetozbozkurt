@@ -1,5 +1,6 @@
 ### Selam, Ben Cevdet Eren Özbozkurt
 
+Fırat Üniversitesinde Bilgisayar Mühendisliği öğrencisiyim. Python, Java, Unity ve Flutter üzerinde kendimi geliştirmekte ve yeni bilgiler ediniyorum. Kendimi geliştirirken yapmaya çalıştığım projeleri github sayfamda paylaşıyorum.
 <!--
 **cevdetozbozkurt/cevdetozbozkurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
