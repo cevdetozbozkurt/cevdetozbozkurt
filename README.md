@@ -22,7 +22,6 @@ Fırat Üniversitesinde Bilgisayar Mühendisliği öğrencisiyim. Python, Java, 
 <br />
 <br />
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=cevdetozbozkurt&show_icons=true&theme=radical)
-![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cevdetozbozkurt&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=cevdetozbozkurt&show_icons=true&theme=radical) ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cevdetozbozkurt&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) 
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=cevdetozbozkurt.cevdetozbozkurt)
