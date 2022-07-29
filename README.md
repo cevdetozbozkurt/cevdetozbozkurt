@@ -1,6 +1,6 @@
 ### Selam, Ben Cevdet Eren Özbozkurt
 
-Fırat Üniversitesinde Bilgisayar Mühendisliği öğrencisiyim. Python, Java, Unity ve Flutter üzerinde kendimi geliştirmekte ve yeni bilgiler ediniyorum. Kendimi geliştirirken yapmaya çalıştığım projeleri github sayfamda paylaşıyorum.
+Fırat Üniversitesinde Bilgisayar Mühendisliği öğrencisiyim. Python, Java, Unity ve Flutter üzerinde kendimi geliştirmekte ve yeni bilgiler edinmekteyim. Kendimi geliştirirken yapmaya çalıştığım projeleri github sayfamda paylaşıyorum.
 
 ## İletişim:
 
