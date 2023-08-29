@@ -1,8 +1,12 @@
-### Selam, Ben Cevdet Eren Özbozkurt
+### Hello, I’m Cevdet Eren Özbozkurt.
 
-Fırat Üniversitesinde Bilgisayar Mühendisliği öğrencisiyim. Python, Java, Unity ve Flutter üzerinde kendimi geliştirmekte ve yeni bilgiler edinmekteyim. Kendimi geliştirirken yapmaya çalıştığım projeleri github sayfamda paylaşıyorum.
+I’m a senior Computer Engineering student at Fırat University. I’m passionate about developing algorithms and learning new technologies. For 3 years, I have produced various projects using languages such as Java, Python, C#/Unity. Some of these projects are test automations, games and stock module application. You can see my projects on my portfolio site. I created my portfolio site with Next.js. Also I’m still learning Next.js.
 
-## İletişim:
+Game development is my hobby and I gained team work experience by participating in Gamejams. The project I’m most proud of is my game called Square. I developed this game with my teammates in a short time. We had fun both while making and playing it. We faced challenges such as time management and task distribution in team work but we overcame them successfully.
+
+How do I see myself as a learner? Curious, researcher and successful. Besides the courses, I was interested in different fields to improve myself. I did projects on topics such as embedded systems, web development, test automation. I’m open to learning new things and I keep updating myself.
+
+## Contact:
 
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/cevdetozbzkrt#gh-dark-mode-only) 
 [![website](./img/gmail.svg)](https://mail.google.com/mail/u/1/#inbox?compose=CllgCJNvNGMlxRQcdXDphKXlTdVkXDmMKpRRPPRbVnjfrzmfHgfnhPFSLxPHGvvSDvQbKnVlJxV#gh-dark-mode-only)
