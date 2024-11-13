@@ -1,10 +1,6 @@
 ### Hello, I’m Cevdet Eren Özbozkurt.
 
-I’m a senior Computer Engineering student at Fırat University. I’m passionate about developing algorithms and learning new technologies. For 3 years, I have produced various projects using languages such as Java, Python, C#/Unity. Some of these projects are test automations, games and stock module application. You can see my projects on my portfolio site. I created my portfolio site with Next.js. Also I’m still learning Next.js.
-
-Game development is my hobby and I gained team work experience by participating in Gamejams. The project I’m most proud of is my game called Square. I developed this game with my teammates in a short time. We had fun both while making and playing it. We faced challenges such as time management and task distribution in team work but we overcame them successfully.
-
-How do I see myself as a learner? Curious, researcher and successful. Besides the courses, I was interested in different fields to improve myself. I did projects on topics such as embedded systems, web development, test automation. I’m open to learning new things and I keep updating myself.
+I am Cevdet Eren Özbozkurt. I graduated with the highest honors from the Computer Engineering program at Fırat University. I have focused on data science and artificial intelligence, and I have a strong background in developing innovative projects over the past four years. I am proficient in programming languages such as Java, Python, C#/Unity, and JavaScript. By participating in events like Gamejam, I have enhanced my teamwork skills and developed a game called "Square" in a short time.As a curious researcher and determined engineer, I am committed to continuous learning and innovation. I have been recognized for my outstanding projects with 2nd and 3rd place awards during the artificial intelligence training provided by Samsung Innovation Campus. I am eager to contribute to a dynamic team where I can further develop my skills and produce impactful results.
 
 ## Contact:
 
